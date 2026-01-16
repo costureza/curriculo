@@ -31,6 +31,9 @@
   margin-bottom: 1.875rem;
   gap: 2rem;
 }
+.social a i:hover{
+  color: var(--vermelho);
+}
 .footer-copy{
   display: flex;
   grid-column: 1/ -1;
